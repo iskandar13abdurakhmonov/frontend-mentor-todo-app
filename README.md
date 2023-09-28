@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [github](https://github.com/iskandar13abdurakhmonov/frontend-mentor-todo-app)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [netlify live server](https://main--transcendent-medovik-04d872.netlify.app/)
 
 ## My process
 
