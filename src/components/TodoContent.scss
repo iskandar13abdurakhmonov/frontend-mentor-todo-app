@@ -1,0 +1,16 @@
+.todo-content {
+    border-radius: 3px;
+    width: 540px;
+    
+    -webkit-box-shadow: 3px 28px 42px 17px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 3px 28px 42px 17px rgba(34, 60, 80, 0.2);
+    box-shadow: 3px 28px 42px 17px rgba(34, 60, 80, 0.2);
+}
+
+.todo-content__dark {
+    background-color: #25273C;
+}
+
+.todo-content__light {
+    background-color: white;
+}

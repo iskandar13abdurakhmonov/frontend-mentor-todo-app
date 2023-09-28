@@ -1,0 +1,64 @@
+.filters {
+    padding: 18px 25px 20px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filters-count {
+    font-size: 9px;
+}
+
+.filters-count__dark {
+    color: white;
+}
+
+.filters__count__light {
+    color: black;
+}
+
+.filters__list {
+    display: flex;
+}
+
+.filters__item:not(:last-child) {
+    margin: 0 20px 0 0;
+}
+
+.filters__button {
+    background: transparent;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.filters__button--active {
+    background: transparent;
+    cursor: pointer;
+    font-weight: 700;
+    color: blue;
+}
+
+.filters__button:hover {
+    color: silver;
+}
+
+.filters__button__dark {
+    color: white;
+}
+
+.filters__button__light {
+    color: black;
+}
+
+.clear {
+    background: transparent;
+    cursor: pointer;
+}
+
+.clear__dark {
+    color: white;
+}
+
+.clear__light {
+    color: black;
+}
