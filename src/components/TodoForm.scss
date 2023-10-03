@@ -1,0 +1,30 @@
+.todo__form {
+    margin: 0 0 24px 0;
+    padding: 24px 23px 26px 23px;
+    width: 100%;
+    border-radius: 3px;
+    -webkit-box-shadow: 3px 28px 42px 17px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 3px 28px 42px 17px rgba(34, 60, 80, 0.2);
+    box-shadow: 3px 28px 42px 17px rgba(34, 60, 80, 0.2);
+}
+
+.form-dark {
+    background-color: #25273C;
+}
+
+.form-light {
+    background-color: white;
+}
+
+.form-input {
+    width: 100%;
+    background: transparent;
+}
+
+.form-input__dark {
+    color: white;
+}
+
+.form-input__light {
+    color: black;
+}

@@ -1,0 +1,45 @@
+.todo-item {
+    padding: 20px 24px 19px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    width: 100%;
+    
+}
+
+.todo-item__dark {
+    border-bottom: 1px solid #37394E;
+}
+
+.todo-item__light {
+    border-bottom: 1px solid #E6E5E9;
+}
+
+.todo-checkbox {
+    cursor: pointer;
+}
+
+.todo-item__text {
+    margin: 0 0 0 20px;
+    flex: 1 1 auto;
+}
+
+.text__dark {
+    color: white;
+}
+
+.text__light {
+    color: black;
+}
+
+.todo-item .todo-item__delete {
+    display: none;
+}
+
+.todo-item:hover .todo-item__delete {
+    background: transparent;
+    display: block;
+    cursor: pointer;
+    width: 26px;
+}
